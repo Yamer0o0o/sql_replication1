@@ -27,8 +27,9 @@
 
 ![alt text](https://github.com/vasev85/sql_replication1/screens/blob/main/ex2-2.png?raw=true)
 
-![alt text](https://github.com/vasev85/sql_replication1/screens/blob/main/ex2-3.png?raw=true)
+![alt text](https://github.com/vasev85/sql_replication1/blob/main/screens/ex2-3.png?raw=true)
 
+https://github.com/vasev85/sql_replication1/blob/main/screens/ex2-1.png
 ---
 
 ## Дополнительные задания (со звездочкой*)
